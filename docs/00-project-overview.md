@@ -163,8 +163,3 @@ The project will be considered successful when:
 
 ---
 
-## About This Portfolio
-
-This repository represents my journey from content strategy to technical writing. It combines my experience in creating user-focused content with structured documentation practices used in modern SaaS organizations.
-
-The goal is to demonstrate not only the ability to write documentation but also to plan, organize, review, manage, and maintain documentation using a collaborative Docs-as-Code workflow.
